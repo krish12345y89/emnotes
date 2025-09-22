@@ -1,9 +1,3 @@
-Samajh gya bhai 👍
-Tu bol raha hai pura **Force System & Equilibrium** ka topic (basic mechanics concepts) ka detailed notes chahiye — easy English + simple Hindi (hinglish), with examples, features, and extra clarity.
-Main isko section-wise tod dunga taaki ekdum crystal clear ho jaye.
-
----
-
 # **Detailed Notes: Force System & Equilibrium**
 
 ---
@@ -181,8 +175,3 @@ Resultant R = √(30² + 40²) = 50 N.
 | Free Body Diagram           | Show all external forces            | Block on incline               |
 
 ---
-
-Bhai, ye full notes ho gaye **basic + detail + examples + charts**.
-Tu bole toh mai iske liye **practice numericals** bhi bana du (step-by-step solve karke, jaise exam mein aate h).
-
-👉 Kya mai tere liye **10 solved numericals** bana du is topic ke, easy to hard level?
